@@ -1,1 +1,1 @@
-# AdmiPanel
+# AdminPanel
