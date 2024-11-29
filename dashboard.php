@@ -6,6 +6,7 @@
  }
 
         include('header.php');
+        
         ?>
 <!-- partial -->
 <div class="container-fluid page-body-wrapper">
@@ -32,6 +33,7 @@
             </div>
         </div>
     </div>
+    <h1>Hello World</h1>
     <div id="right-sidebar" class="settings-panel">
         <i class="settings-close ti-close"></i>
         <ul class="nav nav-tabs border-top" id="setting-panel" role="tablist">
